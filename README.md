@@ -122,7 +122,6 @@ SVMs offer several advantages that make them a popular choice for various machin
 - They provide flexibility in choosing different kernel functions, allowing them to handle different types of data and learn complex decision boundaries.
 
 #### Results
-
 Support Vector Machine (SVM) achieved an overall accuracy of 96%, with precision and recall.
 
 **Author**: Shilpa Gopal
