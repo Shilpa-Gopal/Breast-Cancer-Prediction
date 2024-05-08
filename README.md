@@ -124,7 +124,9 @@ SVMs offer several advantages that make them a popular choice for various machin
 #### Results
 Support Vector Machine (SVM) achieved an overall accuracy of 96%, with precision and recall.
 
+
 **Author**: Shilpa Gopal
+
 **Copyright**: © 2023 Shilpa Gopal. All Rights Reserved.
 
   
